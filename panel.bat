@@ -1,6 +1,3 @@
-start error cmd.exe
-start https://i.ytimg.com/vi/lY_jacnqsBA/maxresdefault.jpg
-start error cmd.exe
 start cmd.exe
 start cmd.exe
 start cmd.exe
